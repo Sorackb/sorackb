@@ -17,4 +17,4 @@ Based in Ontario.
 - Practices: automated testing, CI CD, observability, performance tuning
 
 ## Contact
-If you want to chat about fintech, payments, integrations, or platform modernization, feel free to reach out on LinkedIn.
+If you want to chat about fintech, payments, integrations, or platform modernization, feel free to reach out by email.
